@@ -1,0 +1,9 @@
+((dp1
+S'spark'
+p2
+I24
+sS'mapreduce'
+p3
+I15
+sI180
+t.
